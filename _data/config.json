@@ -13,7 +13,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "St",
             "url": "/store",
             "style": "link"
         },
